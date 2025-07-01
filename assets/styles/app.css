@@ -805,7 +805,7 @@ legend {
 .grid_bulle_techno {
   display: grid;
   grid-template-columns: repeat(2, 1fr);  
-  grid-column-gap: 30px;
+  gap: 30px;
   grid-template-rows: auto
 } 
 
