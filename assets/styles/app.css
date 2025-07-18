@@ -865,7 +865,7 @@ legend {
  
  .portfolio-container {
   width: 100%; 
-  background:url(/portFolioDeploymentJS/assets/img/construction.png);
+  background:#fff;
   background-size: 40%;
   padding: 20px;
   border-radius: 10px;
@@ -1106,7 +1106,7 @@ legend {
 
   .portfolio-container {
     width: 100%; 
-    background:url(/portFolioDeploymentJS/assets/img/construction.png);
+    background:#fff;
     background-size: 100%;
     padding: 20px;
     border-radius: 10px;
